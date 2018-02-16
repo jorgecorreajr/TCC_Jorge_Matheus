@@ -1,0 +1,8 @@
+{>"layout" /}
+
+
+{<body}
+	{#uf}
+		{nome_uf}
+	{/uf}
+{/body}
