@@ -7,7 +7,7 @@ var express 	= require('express'),
 	app 		= express();
 
 //String de conexão ao banco de dados
-var connect = "postgres://jorgecorreajr:tcc2018@localhost/tccETEPdb";
+var connect = "postgres://username:password@localhost/tccETEPdb";
 
 //Assinando Dust Engine aos .dust Files
 app.engine('dust', cons.dust);
