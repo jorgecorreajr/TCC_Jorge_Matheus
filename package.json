@@ -1,0 +1,20 @@
+{
+  "name": "tcc_etep18",
+  "version": "1.0.0",
+  "description": "Sistema de Monitoramento de Consumo de Energia Elétrica",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jorge Corrêa Jr",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "*",
+    "consolidate": "*",
+    "dust": "*",
+    "dustjs-helpers": "*",
+    "dustjs-linkedin": "*",
+    "express": "*",
+    "pg": "*"
+  }
+}
